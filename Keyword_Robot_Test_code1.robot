@@ -1,5 +1,5 @@
- *** Keywords ***
- GO TO GOOGLE PAGE
+*** Keywords ***
+GO TO GOOGLE PAGE
      Open Browser    ${SERVER}    ${BROWSER}
 
 พิมพ์คำว่า
